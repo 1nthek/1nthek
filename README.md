@@ -1,7 +1,7 @@
 # 1nthek's Programming Space 🧑🏻‍💻
 
-#### I'm a FE developer who creates user-friendly services.
-
+### I'm a FE developer creates user-friendly services.
+ <br>
 ### 📚 Interested Tech
 <p align="left">
  <img src="https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D"/>
@@ -9,15 +9,12 @@
  <img src="https://img.shields.io/badge/Jest-informational?style=flat&logo=Jest&logoColor=white&color=C21325">
 </p>
 
-### 🌱 I’m learning
+### 🌱 I’m learning...
 - React 🌐
 - Redux, MobX
-- Next JS
-- TypeScript 🟦
-- VanillaJS 🍨
-- GraphQL, Apollo
-- BlockChain ⛓, Ethereum, klaytn
-- Problem Solving with Python, C++, JavaScript
+- TypeScript
+- GraphQL
+- Problem Solving with JavaScript, Python
 
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nthek&theme=vue&show_icons=true)
