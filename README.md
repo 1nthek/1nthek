@@ -1,6 +1,6 @@
 # 1nthek's Programming Space 🧑🏻‍💻
 
-### I'm a FE developer creates user-friendly services.👋
+### I'm a FE developer creates user-friendly services 👋
 <br>
 
 ### 📚 Interested Tech
