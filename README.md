@@ -12,9 +12,20 @@
 
 ### 🌱 I’m learning...
 - React 🌐
+- React Hooks
 - Redux, MobX
 - TypeScript
 - GraphQL
+- Storybook
+- Webpack
+- Next.js
+<br>
+
+- Vue 3
+- Composition API
+- Nuxt.js
+<br>
+
 - Problem Solving with JavaScript, Python
 
 ### GitHub stats
