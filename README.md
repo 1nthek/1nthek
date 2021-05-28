@@ -32,7 +32,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nthek&theme=vue&show_icons=true)
 
 ### Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=1nthek)](https://solved.ac/1nthek/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idk0919)](https://solved.ac/idk0919/)
 
 
 <!--
