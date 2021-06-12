@@ -30,6 +30,7 @@
 
 ## 🏄‍♀️ My GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nthek&theme=vue&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nthek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Solved.ac
